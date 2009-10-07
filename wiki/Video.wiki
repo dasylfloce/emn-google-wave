@@ -1,10 +1,5 @@
-#summary One-sentence summary of this page.
+#summary Remarques sur Video GG by Jeff
 
-= Introduction =
-
-Remarques sur Video GG by Jeff
-
-= Details =
 
 developpers preview
 will be open sourced
