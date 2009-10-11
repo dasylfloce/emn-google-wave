@@ -1,5 +1,5 @@
 #summary Liens utiles
-#labels ,liens
+#labels liens
 
 = Links=
 
@@ -10,3 +10,5 @@
   * La spec : http://www.waveprotocol.org/
   * Une vidéo beaucoup plus courte pour expliquer le concept : http://gonzague.me/google-wave-une-explication-video
   * Une techno conccurente chez Adobe? https://www.acrobat.com/
+
+http://easiertounderstandthanwave.com/
