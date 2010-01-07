@@ -1,9 +1,6 @@
 package test.client;
 
-
-
 import java.util.Date;
-
 import com.google.gwt.event.logical.shared.ValueChangeEvent;
 import com.google.gwt.event.logical.shared.ValueChangeHandler;
 import com.google.gwt.i18n.client.DateTimeFormat;

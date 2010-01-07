@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 1.7.1//EN" "http://google-web-toolkit.googlecode.com/svn/tags/1.7.1/distro-source/core/src/gwt-module.dtd">
-<module rename-to='gadget'>
+<module rename-to='DoodleGadget'>
   <!-- Inherit the core Web Toolkit stuff. -->
   <inherits name='com.google.gwt.json.JSON'/>
   <!-- Inherit the core Web Toolkit stuff.                        -->
   <inherits name='com.google.gwt.user.User'/>
 
-  <!-- Other module inherits                                      -->
+  <!-- Other module inherits     -->     
+                            
  <inherits name='org.cobogw.gwt.waveapi.gadget.WaveGadget' />
   <!-- Support for creating Gadgets. -->
   <inherits name="com.google.gwt.gadgets.Gadgets" />
 
   <!-- Specify the app entry point class.                         -->
-  <entry-point class='test.client.Gadget'/> 
+  <entry-point class='test.client.DoodleGadget'/> 
   
 
 </module>
